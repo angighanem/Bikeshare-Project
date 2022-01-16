@@ -15,7 +15,7 @@ The Bikeshare Dataset consists of three subsets containing information related t
   - washington.csv (This subset does not include the 'Gender' or 'Birth Year' data)
 
 ## Program File
-The python code is in the file names bikeshare_2.py. It could be run using Anaconda's command prompt.
+The python code is in the file names bikeshare_2_reviewed.py. It could be run using Anaconda's command prompt.
 
 ## Program Requirements
   - Libraries:
